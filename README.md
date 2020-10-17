@@ -3,4 +3,4 @@ This is the simplified code for the paper ''A joint learning and communications 
 
 Please run this simulation using Matlab 2018b or above.
 
-To run this simulation, the authors should first download the MNIST dataset from http://yann.lecun.com/exdb/mnist/. 
+To run this simulation, please first download the MNIST dataset from http://yann.lecun.com/exdb/mnist/. 
